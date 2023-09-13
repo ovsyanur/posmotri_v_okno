@@ -123,7 +123,7 @@ ol {
 
 .search-form__label:has(:focus-visible) {
   outline: 1px solid #fff;
-  outline-offset: 1px;
+  outline-offset: 1pх;
 }
 
 .search-form__label:has(:active) {
